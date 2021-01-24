@@ -1,4 +1,3 @@
-<center># Ian A. Elliott
-### Researcher | Psychology Ph.D. | Aspiring coder!
-**Check in here for new information!**<br>
-*Ian*</center>
+# Ian A. Elliott  
+## Roaming researcher | Psychology Ph.D.  
+Check in here for new projects!  
