@@ -1,4 +1,4 @@
-### Ian A. Elliott  
+### Ian A. Elliott<br>
 *Researcher | Psychology PhD*  
 
 #### Current R projects<br>
