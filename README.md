@@ -3,7 +3,7 @@
 
 Check in here for new projects!  
 
-### Experience
+#### Experience
 Current and previous research has included analytical coding via **R** as the basis for:  
 - Multi-level regression modeling  
 - Propensity score matching (via *matchit* and a bespoke proxy for *psmatch2* in STATA)  
