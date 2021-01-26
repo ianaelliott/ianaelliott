@@ -1,7 +1,7 @@
 ### Ian A. Elliott  
-#### Researcher | Psychology Ph.D.  
+*Researcher | Psychology Ph.D.*  
 
-### Current R projects  
+#### Current R projects  
 - Impact evaluations of offending behaviour programmes  
 - Clinical outcome evaluations of offending behaviour programmes  
 - Psychometric evaluations of criminal clinical and risk assessments  
