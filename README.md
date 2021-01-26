@@ -11,7 +11,7 @@ Current and previous research has included analytical coding via **R** as the ba
 - **Multi-level regression modeling**  
 - **Propensity score matching** (``matchit`` and a bespoke proxy for *psmatch2* in STATA)  
 - **Synthetic control analysis**  (``synth`` package)  
-- **Survival analysis** (``survival`` and ``servminer``)
+- **Survival analysis** (``survival`` and ``survminer``)
 - **Psychometric analyses** (``CTT``, ``ltm`` and ``lavaan``)  
 - **Power and meta-analysis** (``pwr``, ``epiR``, ``meta`` and ``metafor`` packages)  
 - **basic comparative statistics** (t-tests, chi-square, AUC, etc.)  
