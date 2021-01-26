@@ -1,7 +1,11 @@
 ### Ian A. Elliott  
 #### Roaming researcher | Psychology Ph.D.  
 
-Check in here for new projects!  
+### Current R projects  
+- Impact evaluations of offending behaviour programmes  
+- Clinical outcome evaluations of offending behaviour programmes  
+- Psychometric evaluations of criminal clinical and risk assessments  
+- Classification analyses of criminal subgroups  
 
 #### Experience
 Current and previous research has included analytical coding via **R** as the basis for:  
@@ -9,6 +13,7 @@ Current and previous research has included analytical coding via **R** as the ba
 - **Propensity score matching** (via *matchit* and a bespoke proxy for *psmatch2* in STATA)  
 - **Synthetic control analysis**  (*synth* package)  
 - **Survival analysis** (via *survival* and *servminer*)
+- **Psychometric analyses** (via *CTT*, *ltm* and *lavaan*)  
 - **Meta-analysis** (*meta* and *metafor* packages)  
 - **Power analysis** (via *pwr* and *epiR*)  
 
