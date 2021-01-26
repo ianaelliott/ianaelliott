@@ -10,12 +10,11 @@
 #### Experience<br>
 Current and previous research has included analytical coding via **R** as the basis for:  
 - **Multi-level regression modeling**  
-- **Propensity score matching** (via *matchit* and a bespoke proxy for *psmatch2* in STATA)  
+- **Propensity score matching** (*matchit* and a bespoke proxy for *psmatch2* in STATA)  
 - **Synthetic control analysis**  (*synth* package)  
-- **Survival analysis** (via *survival* and *servminer*)
-- **Psychometric analyses** (via *CTT*, *ltm* and *lavaan*)  
-- **Meta-analysis** (*meta* and *metafor* packages)  
-- **Power analysis** (via *pwr* and *epiR*)  
+- **Survival analysis** (*survival* and *servminer*)
+- **Psychometric analyses** (*CTT*, *ltm* and *lavaan*)  
+- **Power and meta-analysis** (*pwr*, *epiR*, *meta* and *metafor* packages)  
+- **basic comparative statistics** (t-tests, chi-square, AUC, etc.)  
 
-Projects have also utilised basic comparative statistics (e.g., t-tests, chi-square, AUC, etc.)  
 I'm also comfortable in tidyverse, ggplot2, etc.  
