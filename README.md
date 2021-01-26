@@ -1,5 +1,5 @@
 ### Ian A. Elliott  
-#### Roaming researcher | Psychology Ph.D.  
+#### Researcher | Psychology Ph.D.  
 
 ### Current R projects  
 - Impact evaluations of offending behaviour programmes  
