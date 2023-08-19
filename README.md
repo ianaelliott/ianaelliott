@@ -9,7 +9,7 @@
 #### Experience<br>
 Current and previous research has included analytical coding via **R** as the basis for:  
 - **Multi-level regression modeling**  
-- **Propensity score matching** (``matchit`` and a bespoke proxy for *psmatch2* in STATA)  
+- **Propensity score matching** (``matchit`` and bespoke [a la ``psmatch2`` in STATA])  
 - **Synthetic control analysis**  (``synth`` package)  
 - **Survival analysis** (``survival`` and ``survminer``)
 - **Psychometric analyses** (``CTT``, ``ltm`` and ``lavaan``)  
