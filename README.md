@@ -16,4 +16,4 @@ Current and previous research has included analytical coding via **R** as the ba
 - **Power and meta-analysis** (``pwr``, ``epiR``, ``meta`` and ``metafor`` packages)  
 - **basic comparative statistics** (t-tests, chi-square, AUC, etc.)  
 
-I'm also pretty fluent in ``tidyverse``, ``ggplot2``, etc., and can write functions as needed.  
+I'm also pretty fluent in ``tidyverse``, ``ggplot2``, etc., and can write functions as required  
